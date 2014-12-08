@@ -1,0 +1,39 @@
+Nombre: S
+	Tipo Nodo: NODOGLOBALES
+	Tipo Nodo: NODOBLOQUE
+		Nombre: NODOFUNC ID: javiTipo Retorno: INTEGER
+			Nombre: NODOPARAM
+				Tipo Nodo: HOJAPARAM Nombre: x Tipo: INTEGER isRef: false
+			Nombre: NODODECL
+			Tipo Nodo: NODOBLOQUE1
+				Nombre: x Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: SUM
+						Nombre: ACCESO ID: x
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+			Nombre: ACCESO ID: x
+		Nombre: NODOPROC ID: main
+			Nombre: NODOPARAM
+			Nombre: NODODECL
+				Nombre: HOJAVAR ID: a Tipo: INTEGER
+				Nombre: HOJAVAR ID: b Tipo: INTEGER
+			Tipo Nodo: NODOBLOQUE1
+				Nombre: a Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: b Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+				Nombre: NODOSHOW ID: showlnEs ShowLN: true
+					Nombre: ACCESO ID: a
+				Nombre: a Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: SUM
+						Nombre: EXP OP: PROD
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 3
+						Nombre: EXP OP: PROD
+							Nombre: EXP OP: REST
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 4
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+							Nombre: LLAMADA ID: javi
+								Nombre: null Tipo Nodo: PASAJE
+									Nombre: ACCESO ID: a
+				Nombre: NODOSHOW ID: showlnEs ShowLN: true
+					Nombre: ACCESO ID: a

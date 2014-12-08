@@ -1,0 +1,1192 @@
+17:45:40,616 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+17:45:40,850 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+17:45:40,944 DEBUG [ComponentPackUtils] Starting Search for CPs
+17:45:40,944 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+17:45:41,367 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+17:45:41,367 DEBUG [RuntimeInstallsHandler] Event [org.eclipse.jdt.launching.PROPERTY_JAVADOC_LOCATION] for: *OLD* was[http://download.oracle.com/javase/7/docs/api/] *NEW* is [].
+17:45:41,414 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+17:45:41,429 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+17:45:41,429 TRACE [PropertyChangeListenerImp] openStartupOnEclpseFirstStart was changed from "false" to "false"
+17:45:41,461 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+17:45:41,492 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+17:45:41,492 TRACE [ContextManager] ContextManager startingneed update: true
+17:45:41,539 DEBUG [UpgradingNotification] qualifier: 0
+17:45:56,330 TRACE [PropertyChangeListenerImp] popForMissingVC was changed from "true" to "false"
+17:45:56,330 DEBUG [VCWarningDialog] setting popForMissingVCto false
+17:47:21,613 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:47:21,613 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+19:34:05,877 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+19:34:06,534 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+19:34:06,721 DEBUG [ComponentPackUtils] Starting Search for CPs
+19:34:06,768 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+19:34:06,955 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+19:34:07,065 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+19:34:07,080 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+19:34:07,080 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+19:34:07,487 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+19:34:07,487 TRACE [ContextManager] ContextManager startingneed update: true
+19:34:07,830 DEBUG [UpgradingNotification] qualifier: 0
+21:10:33,609 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:10:33,610 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+17:48:43,948 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+17:48:45,479 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+17:48:45,791 DEBUG [ComponentPackUtils] Starting Search for CPs
+17:48:45,979 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+17:48:46,496 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+17:48:46,496 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+17:48:47,277 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+17:48:48,090 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+17:48:49,450 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: Procesadores_de_Lenguajes
+17:48:49,450 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: Procesadores_de_Lenguajes
+17:48:50,419 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+17:48:50,419 TRACE [ContextManager] ContextManager startingneed update: true
+17:49:17,985 DEBUG [UpgradingNotification] qualifier: 0
+17:55:29,225 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:55:29,225 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+19:10:32,232 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+19:10:32,935 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+19:10:33,185 DEBUG [ComponentPackUtils] Starting Search for CPs
+19:10:33,217 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+19:10:33,404 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+19:10:33,545 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+19:10:33,560 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+19:10:33,560 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+19:10:33,998 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+19:10:33,998 TRACE [ContextManager] ContextManager startingneed update: true
+19:10:35,498 DEBUG [UpgradingNotification] qualifier: 0
+19:20:03,919 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+19:20:03,920 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:04:20,077 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:04:20,280 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:04:20,342 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:04:20,342 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:04:20,405 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:04:20,405 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:04:20,436 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:04:20,452 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:04:20,499 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:04:20,499 TRACE [ContextManager] ContextManager startingneed update: true
+20:04:20,577 DEBUG [UpgradingNotification] qualifier: 0
+20:06:36,988 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+20:06:36,988 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:17:32,497 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:17:32,857 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:17:33,013 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:17:33,060 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:17:33,216 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:17:33,341 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:17:33,357 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:17:33,357 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:17:33,779 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:17:33,779 TRACE [ContextManager] ContextManager startingneed update: true
+21:17:34,763 DEBUG [UpgradingNotification] qualifier: 0
+21:19:54,689 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:19:54,689 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:09:49,909 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:09:50,258 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:09:50,339 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:09:50,350 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:09:51,326 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:09:51,326 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:09:51,441 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:09:51,481 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:09:51,616 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:09:51,618 TRACE [ContextManager] ContextManager startingneed update: true
+00:09:51,765 DEBUG [UpgradingNotification] qualifier: 0
+00:10:38,073 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+00:10:38,073 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:03:23,379 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:03:23,705 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:03:23,791 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:03:23,800 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:03:23,855 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:03:23,855 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:03:23,913 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:03:23,928 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:03:23,964 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:03:23,964 TRACE [ContextManager] ContextManager startingneed update: true
+01:03:24,016 DEBUG [UpgradingNotification] qualifier: 0
+01:07:54,416 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:07:54,417 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:08:21,328 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:08:21,670 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:08:21,754 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:08:21,763 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:08:21,817 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:08:21,817 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:08:21,874 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:08:21,891 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:08:21,925 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:08:21,925 TRACE [ContextManager] ContextManager startingneed update: true
+01:08:21,969 DEBUG [UpgradingNotification] qualifier: 0
+01:40:04,222 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: TPMati
+01:40:04,222 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: TPMati
+01:41:07,452 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: TPMati
+01:41:07,452 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: TPMati
+01:44:35,521 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:44:35,522 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:53:18,476 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:53:18,798 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:53:18,882 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:53:18,891 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:53:18,947 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:53:19,006 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:53:19,022 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:53:19,023 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:53:19,105 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:53:19,105 TRACE [ContextManager] ContextManager startingneed update: true
+01:53:19,208 DEBUG [UpgradingNotification] qualifier: 0
+01:54:09,993 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:54:09,993 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:34:31,790 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:34:32,413 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:34:32,538 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:34:32,575 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:34:32,759 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:34:32,759 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:34:32,933 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:34:32,963 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:34:33,664 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:34:33,666 TRACE [ContextManager] ContextManager startingneed update: true
+23:34:34,038 DEBUG [UpgradingNotification] qualifier: 0
+03:13:13,624 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:13:13,624 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+15:10:45,825 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+15:10:46,420 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+15:10:46,533 DEBUG [ComponentPackUtils] Starting Search for CPs
+15:10:46,567 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+15:10:46,818 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+15:10:46,818 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+15:10:46,950 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+15:10:46,998 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+15:10:47,181 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+15:10:47,182 TRACE [ContextManager] ContextManager startingneed update: true
+15:10:47,338 DEBUG [UpgradingNotification] qualifier: 0
+01:41:28,615 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:41:28,615 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:55:13,582 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:55:14,187 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:55:14,292 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:55:14,310 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:55:14,549 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:55:14,679 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:55:14,693 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:55:14,715 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:55:14,969 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:55:14,970 TRACE [ContextManager] ContextManager startingneed update: true
+20:55:15,894 DEBUG [UpgradingNotification] qualifier: 0
+21:54:39,738 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: CompiladorLEB
+21:54:39,738 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: CompiladorLEB
+22:09:58,655 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+22:09:58,656 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:13:27,211 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:13:27,550 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:13:27,635 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:13:27,644 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:13:27,724 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:13:27,724 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:13:27,794 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:13:27,809 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:13:27,915 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:13:27,915 TRACE [ContextManager] ContextManager startingneed update: true
+23:13:27,971 DEBUG [UpgradingNotification] qualifier: 0
+01:15:14,771 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:15:14,771 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:23:47,083 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:23:47,420 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:23:47,546 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:23:47,555 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:23:47,628 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:23:47,704 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:23:47,720 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:23:47,721 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:23:47,823 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:23:47,825 TRACE [ContextManager] ContextManager startingneed update: true
+01:23:47,903 DEBUG [UpgradingNotification] qualifier: 0
+01:29:10,574 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:29:10,575 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+15:01:53,206 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+15:01:54,165 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+15:01:54,443 DEBUG [ComponentPackUtils] Starting Search for CPs
+15:01:54,489 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+15:01:54,689 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+15:01:54,837 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+15:01:54,851 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+15:01:54,852 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+15:01:55,124 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+15:01:55,126 TRACE [ContextManager] ContextManager startingneed update: true
+15:01:55,389 DEBUG [UpgradingNotification] qualifier: 0
+17:11:17,395 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:11:17,396 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+22:41:36,826 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+22:41:37,373 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+22:41:37,475 DEBUG [ComponentPackUtils] Starting Search for CPs
+22:41:37,484 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+22:41:37,562 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+22:41:37,717 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+22:41:37,734 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+22:41:37,774 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+22:41:37,861 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+22:41:37,861 TRACE [ContextManager] ContextManager startingneed update: true
+22:41:37,925 DEBUG [UpgradingNotification] qualifier: 0
+01:36:56,246 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:36:56,247 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:15:05,247 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:15:06,043 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:15:06,176 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:15:06,204 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:15:06,456 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:15:06,456 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:15:06,685 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:15:06,740 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:15:06,948 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:15:06,948 TRACE [ContextManager] ContextManager startingneed update: true
+21:15:07,064 DEBUG [UpgradingNotification] qualifier: 0
+22:57:32,647 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+22:57:32,647 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:05:55,178 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:05:55,608 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:05:55,720 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:05:55,729 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:05:55,803 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:05:55,803 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:05:55,867 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:05:55,885 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:05:55,925 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:05:55,928 TRACE [ContextManager] ContextManager startingneed update: true
+23:05:55,989 DEBUG [UpgradingNotification] qualifier: 0
+01:01:57,027 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:01:57,027 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:10:41,563 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:10:41,929 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:10:42,030 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:10:42,039 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:10:42,113 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:10:42,173 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:10:42,187 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:10:42,188 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:10:42,267 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:10:42,268 TRACE [ContextManager] ContextManager startingneed update: true
+01:10:42,319 DEBUG [UpgradingNotification] qualifier: 0
+01:35:44,541 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:35:44,541 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+12:35:25,014 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+12:35:25,718 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+12:35:25,834 DEBUG [ComponentPackUtils] Starting Search for CPs
+12:35:25,858 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+12:35:26,042 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+12:35:26,042 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+12:35:26,183 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+12:35:26,208 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+12:35:26,412 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+12:35:26,412 TRACE [ContextManager] ContextManager startingneed update: true
+12:35:26,561 DEBUG [UpgradingNotification] qualifier: 0
+13:03:09,598 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+13:03:09,599 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:39:39,259 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:39:39,988 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:39:40,101 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:39:40,126 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:39:40,332 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:39:40,332 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:39:40,466 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:39:40,512 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:39:40,715 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:39:40,716 TRACE [ContextManager] ContextManager startingneed update: true
+00:39:40,831 DEBUG [UpgradingNotification] qualifier: 0
+00:42:42,303 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+00:42:42,304 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:44:35,415 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:44:36,734 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:44:36,856 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:44:36,881 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:44:37,032 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:44:37,032 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:44:37,368 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:44:37,441 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:44:37,637 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:44:37,642 TRACE [ContextManager] ContextManager startingneed update: true
+23:44:37,752 DEBUG [UpgradingNotification] qualifier: 0
+00:06:29,578 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+00:06:29,578 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:14:14,337 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:14:14,703 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:14:14,791 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:14:14,800 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:14:14,860 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:14:14,914 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:14:14,930 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:14:14,931 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:14:15,017 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:14:15,021 TRACE [ContextManager] ContextManager startingneed update: true
+00:14:15,143 DEBUG [UpgradingNotification] qualifier: 0
+00:16:53,807 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+00:16:53,808 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:53:53,512 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:53:53,903 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:53:53,990 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:53:53,999 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:53:54,066 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:53:54,131 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:53:54,146 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:53:54,147 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:53:54,184 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:53:54,189 TRACE [ContextManager] ContextManager startingneed update: true
+00:53:54,240 DEBUG [UpgradingNotification] qualifier: 0
+03:27:50,591 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:27:50,591 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+03:49:12,445 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+03:49:12,864 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+03:49:13,095 DEBUG [ComponentPackUtils] Starting Search for CPs
+03:49:13,140 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+03:49:13,253 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+03:49:13,253 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+03:49:13,345 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+03:49:13,360 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+03:49:13,440 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+03:49:13,443 TRACE [ContextManager] ContextManager startingneed update: true
+03:49:13,495 DEBUG [UpgradingNotification] qualifier: 0
+03:59:03,576 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:59:03,577 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:25:46,571 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:25:47,196 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:25:47,332 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:25:47,358 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:25:47,475 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:25:47,620 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:25:47,635 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:25:47,669 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:25:47,909 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:25:47,911 TRACE [ContextManager] ContextManager startingneed update: true
+21:25:49,274 DEBUG [UpgradingNotification] qualifier: 0
+21:26:35,922 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:26:35,922 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:29:59,942 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:30:00,277 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:30:00,360 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:30:00,370 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:30:00,426 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:30:00,483 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:30:00,498 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:30:00,499 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:30:00,578 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:30:00,579 TRACE [ContextManager] ContextManager startingneed update: true
+21:30:00,637 DEBUG [UpgradingNotification] qualifier: 0
+02:03:20,569 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+02:03:20,569 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+02:16:15,376 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+02:16:15,869 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+02:16:16,039 DEBUG [ComponentPackUtils] Starting Search for CPs
+02:16:16,056 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+02:16:16,125 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+02:16:16,254 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+02:16:16,269 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+02:16:16,270 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+02:16:16,555 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+02:16:16,556 TRACE [ContextManager] ContextManager startingneed update: true
+02:16:16,848 DEBUG [UpgradingNotification] qualifier: 0
+03:19:48,788 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:19:48,788 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+13:10:51,073 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+13:10:51,947 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+13:10:52,150 DEBUG [ComponentPackUtils] Starting Search for CPs
+13:10:52,196 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+13:10:52,571 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+13:10:52,758 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+13:10:52,758 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+13:10:52,758 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+13:10:53,226 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+13:10:53,226 TRACE [ContextManager] ContextManager startingneed update: true
+13:10:54,084 DEBUG [UpgradingNotification] qualifier: 0
+13:19:50,750 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: Procesadores_de_Lenguajes
+13:19:50,750 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: Procesadores_de_Lenguajes
+16:30:02,593 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+16:30:02,594 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+22:09:52,240 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+22:09:53,216 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+22:09:53,356 DEBUG [ComponentPackUtils] Starting Search for CPs
+22:09:53,368 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+22:09:53,505 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+22:09:53,664 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+22:09:53,694 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+22:09:53,716 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+22:09:53,894 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+22:09:53,896 TRACE [ContextManager] ContextManager startingneed update: true
+22:09:54,032 DEBUG [UpgradingNotification] qualifier: 0
+04:54:17,553 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: Procesadores_de_Lenguajes
+04:54:17,553 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: Procesadores_de_Lenguajes
+06:55:29,357 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+06:55:29,357 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+12:10:49,821 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+12:10:54,941 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+12:10:55,133 DEBUG [ComponentPackUtils] Starting Search for CPs
+12:10:55,158 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+12:10:55,357 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+12:10:55,357 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+12:10:55,504 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+12:10:55,519 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+12:10:55,884 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+12:10:55,885 TRACE [ContextManager] ContextManager startingneed update: true
+12:10:56,581 DEBUG [UpgradingNotification] qualifier: 0
+12:11:09,005 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: TPRodney
+12:11:09,005 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: TPRodney
+12:14:28,327 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: Procesadores_de_Lenguajes
+12:14:28,327 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: Procesadores_de_Lenguajes
+12:15:29,159 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: TPMati
+12:15:29,160 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: TPMati
+17:26:22,086 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:26:22,086 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:49:11,001 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:49:13,700 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:49:13,809 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:49:13,809 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:49:13,902 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:49:14,058 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:49:14,074 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:49:14,090 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:49:14,308 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:49:14,308 TRACE [ContextManager] ContextManager startingneed update: true
+21:49:14,417 DEBUG [UpgradingNotification] qualifier: 0
+21:49:43,075 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:49:43,075 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:56:20,251 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:56:20,744 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:56:20,947 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:56:20,957 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:56:21,018 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:56:21,104 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:56:21,122 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:56:21,123 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:56:21,161 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:56:21,164 TRACE [ContextManager] ContextManager startingneed update: true
+21:56:21,218 DEBUG [UpgradingNotification] qualifier: 0
+21:58:58,115 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:58:58,115 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+22:02:29,076 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+22:02:29,429 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+22:02:29,516 DEBUG [ComponentPackUtils] Starting Search for CPs
+22:02:29,526 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+22:02:29,582 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+22:02:29,697 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+22:02:29,717 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+22:02:29,718 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+22:02:29,754 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+22:02:29,756 TRACE [ContextManager] ContextManager startingneed update: true
+22:02:29,808 DEBUG [UpgradingNotification] qualifier: 0
+22:04:41,478 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+22:04:41,478 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:44:58,817 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:44:59,175 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:44:59,264 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:44:59,273 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:44:59,328 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:44:59,388 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:44:59,403 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:44:59,404 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:44:59,441 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:44:59,441 TRACE [ContextManager] ContextManager startingneed update: true
+23:44:59,492 DEBUG [UpgradingNotification] qualifier: 0
+01:44:16,278 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:44:16,279 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+19:16:53,408 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+19:16:57,339 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+19:16:57,448 DEBUG [ComponentPackUtils] Starting Search for CPs
+19:16:57,479 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+19:16:57,854 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+19:16:57,854 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+19:16:58,010 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+19:16:58,056 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+19:16:58,493 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+19:16:58,493 TRACE [ContextManager] ContextManager startingneed update: true
+19:16:59,913 DEBUG [UpgradingNotification] qualifier: 0
+20:49:23,761 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: Procesadores_de_LenguajesV2
+20:49:23,761 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: Procesadores_de_LenguajesV2
+20:49:46,225 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+20:49:46,225 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:50:48,119 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:50:48,518 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:50:48,607 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:50:48,616 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:50:48,675 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:50:48,676 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:50:48,677 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:50:48,713 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:50:48,715 TRACE [ContextManager] ContextManager startingneed update: true
+20:50:48,774 DEBUG [UpgradingNotification] qualifier: 0
+20:50:48,817 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:51:21,065 DEBUG [ResourceChangeManager] Error removing BB properties from Cache on project <Procesadores_de_LenguajesV2> deletion
+org.eclipse.core.internal.resources.ResourceException: Resource '/Procesadores_de_LenguajesV2' is not open.
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:150)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:584)
+	at net.rim.ejde.internal.core.ResourceChangeManager.resourceChanged(ResourceChangeManager.java:86)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:261)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:391)
+	at org.eclipse.core.internal.resources.Resource.broadcastPreDeleteEvent(Resource.java:2030)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:788)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:160)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+20:51:39,288 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+20:51:39,288 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:52:13,109 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:52:13,454 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:52:13,540 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:52:13,550 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:52:13,606 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:52:13,656 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:52:13,672 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:52:13,673 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:52:13,753 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:52:13,756 TRACE [ContextManager] ContextManager startingneed update: true
+20:52:13,809 DEBUG [UpgradingNotification] qualifier: 0
+20:53:10,463 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+20:53:10,463 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:53:24,796 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:53:25,144 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:53:25,232 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:53:25,241 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:53:25,296 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:53:25,409 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:53:25,422 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:53:25,423 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:53:25,458 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:53:25,460 TRACE [ContextManager] ContextManager startingneed update: true
+20:53:25,509 DEBUG [UpgradingNotification] qualifier: 0
+21:25:57,537 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:25:57,537 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:28:05,882 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:28:06,242 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:28:06,330 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:28:06,340 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:28:06,396 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:28:06,456 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:28:06,473 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:28:06,474 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:28:06,510 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:28:06,511 TRACE [ContextManager] ContextManager startingneed update: true
+21:28:06,563 DEBUG [UpgradingNotification] qualifier: 0
+02:10:11,381 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+02:10:11,381 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+17:29:50,260 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+17:29:53,596 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+17:29:53,800 DEBUG [ComponentPackUtils] Starting Search for CPs
+17:29:53,851 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+17:29:54,072 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+17:29:54,072 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+17:29:54,335 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+17:29:54,353 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+17:29:54,648 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+17:29:54,649 TRACE [ContextManager] ContextManager startingneed update: true
+17:29:55,009 DEBUG [UpgradingNotification] qualifier: 0
+18:32:09,782 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+18:32:09,782 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+18:33:41,864 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+18:33:42,324 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+18:33:42,425 DEBUG [ComponentPackUtils] Starting Search for CPs
+18:33:42,435 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+18:33:42,504 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+18:33:42,668 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+18:33:42,682 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+18:33:42,693 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+18:33:42,777 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+18:33:42,777 TRACE [ContextManager] ContextManager startingneed update: true
+18:33:42,919 DEBUG [UpgradingNotification] qualifier: 0
+18:38:53,980 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+18:38:53,980 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+18:39:37,279 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+18:39:37,636 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+18:39:37,722 DEBUG [ComponentPackUtils] Starting Search for CPs
+18:39:37,732 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+18:39:37,788 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+18:39:37,853 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+18:39:37,869 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+18:39:37,870 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+18:39:37,906 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+18:39:37,909 TRACE [ContextManager] ContextManager startingneed update: true
+18:39:37,962 DEBUG [UpgradingNotification] qualifier: 0
+19:03:41,301 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+19:03:41,301 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+19:04:05,301 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+19:04:05,658 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+19:04:05,746 DEBUG [ComponentPackUtils] Starting Search for CPs
+19:04:05,755 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+19:04:05,812 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+19:04:05,877 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+19:04:05,899 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+19:04:05,900 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+19:04:05,938 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+19:04:05,940 TRACE [ContextManager] ContextManager startingneed update: true
+19:04:05,994 DEBUG [UpgradingNotification] qualifier: 0
+19:08:54,216 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+19:08:54,217 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+19:12:02,453 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+19:12:02,808 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+19:12:02,897 DEBUG [ComponentPackUtils] Starting Search for CPs
+19:12:02,906 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+19:12:02,963 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+19:12:03,024 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+19:12:03,041 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+19:12:03,042 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+19:12:03,078 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+19:12:03,078 TRACE [ContextManager] ContextManager startingneed update: true
+19:12:03,131 DEBUG [UpgradingNotification] qualifier: 0
+22:38:15,056 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+22:38:15,056 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:52:58,869 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:53:00,560 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:53:00,716 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:53:00,725 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:53:00,805 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:53:00,805 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:53:00,902 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:53:00,917 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:53:01,142 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:53:01,142 TRACE [ContextManager] ContextManager startingneed update: true
+23:53:01,590 DEBUG [UpgradingNotification] qualifier: 0
+01:34:49,079 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:34:49,079 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:37:43,716 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:37:45,496 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:37:45,729 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:37:45,760 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:37:45,917 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:37:46,061 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:37:46,076 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:37:46,077 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:37:46,358 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:37:46,361 TRACE [ContextManager] ContextManager startingneed update: true
+01:37:46,741 DEBUG [UpgradingNotification] qualifier: 0
+02:48:41,918 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+02:48:41,918 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+14:24:42,298 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+14:24:44,038 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+14:24:44,235 DEBUG [ComponentPackUtils] Starting Search for CPs
+14:24:44,256 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+14:24:44,339 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+14:24:44,339 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+14:24:44,427 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+14:24:44,443 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+14:24:44,673 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+14:24:44,675 TRACE [ContextManager] ContextManager startingneed update: true
+14:24:44,855 DEBUG [UpgradingNotification] qualifier: 0
+17:19:19,234 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:19:19,234 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+17:28:59,136 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+17:29:00,367 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+17:29:00,714 DEBUG [ComponentPackUtils] Starting Search for CPs
+17:29:00,761 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+17:29:00,963 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+17:29:01,119 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+17:29:01,119 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+17:29:01,135 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+17:29:01,570 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+17:29:01,570 TRACE [ContextManager] ContextManager startingneed update: true
+17:29:02,054 DEBUG [UpgradingNotification] qualifier: 0
+17:54:12,575 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:54:12,575 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:23:47,209 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:23:54,653 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:23:55,115 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:23:55,163 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:23:55,853 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:23:56,194 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:23:56,209 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:23:56,262 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:23:57,338 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:23:57,345 TRACE [ContextManager] ContextManager startingneed update: true
+00:23:58,977 DEBUG [UpgradingNotification] qualifier: 0
+00:53:41,353 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+00:53:41,353 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:58:44,204 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:58:47,121 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:58:47,215 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:58:47,246 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:58:47,386 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:58:47,386 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:58:47,527 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:58:47,573 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:58:47,807 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:58:47,807 TRACE [ContextManager] ContextManager startingneed update: true
+01:58:47,948 DEBUG [UpgradingNotification] qualifier: 0
+02:01:24,942 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+02:01:24,942 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:06:28,284 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:06:28,853 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:06:28,986 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:06:29,017 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:06:29,261 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:06:29,261 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:06:29,416 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:06:29,452 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:06:29,870 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:06:29,871 TRACE [ContextManager] ContextManager startingneed update: true
+23:06:30,023 DEBUG [UpgradingNotification] qualifier: 0
+23:12:46,057 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+23:12:46,057 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+10:23:39,680 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+10:23:40,366 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+10:23:40,491 DEBUG [ComponentPackUtils] Starting Search for CPs
+10:23:40,538 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+10:23:40,678 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+10:23:40,678 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+10:23:40,834 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+10:23:40,897 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+10:23:41,115 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+10:23:41,115 TRACE [ContextManager] ContextManager startingneed update: true
+10:23:41,302 DEBUG [UpgradingNotification] qualifier: 0
+10:25:14,220 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+10:25:14,220 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:55:53,983 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:55:59,084 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:55:59,264 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:55:59,359 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:55:59,669 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:55:59,674 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:55:59,886 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:55:59,922 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:56:00,340 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:56:00,340 TRACE [ContextManager] ContextManager startingneed update: true
+23:56:00,801 DEBUG [UpgradingNotification] qualifier: 0
+23:58:08,395 DEBUG [ResourceChangeManager] Error removing BB properties from Cache on project <Procesadores_de_Lenguajes> deletion
+org.eclipse.core.internal.resources.ResourceException: Resource '/Procesadores_de_Lenguajes' is not open.
+	at org.eclipse.core.internal.resources.Project.checkAccessible(Project.java:150)
+	at org.eclipse.core.internal.resources.Project.hasNature(Project.java:584)
+	at net.rim.ejde.internal.core.ResourceChangeManager.resourceChanged(ResourceChangeManager.java:86)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:291)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:285)
+	at org.eclipse.core.internal.events.NotificationManager.handleEvent(NotificationManager.java:261)
+	at org.eclipse.core.internal.resources.Workspace.broadcastEvent(Workspace.java:391)
+	at org.eclipse.core.internal.resources.Resource.broadcastPreDeleteEvent(Resource.java:2030)
+	at org.eclipse.core.internal.resources.Resource.delete(Resource.java:788)
+	at org.eclipse.core.internal.resources.Project.delete(Project.java:344)
+	at org.eclipse.ltk.core.refactoring.resource.DeleteResourceChange.perform(DeleteResourceChange.java:160)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.CompositeChange.perform(CompositeChange.java:278)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:258)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:306)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:92)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:218)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2345)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:87)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:121)
+01:35:28,403 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:35:28,404 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+14:22:08,049 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+14:22:11,886 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+14:22:12,214 DEBUG [ComponentPackUtils] Starting Search for CPs
+14:22:12,276 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+14:22:12,479 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+14:22:12,479 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+14:22:12,651 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+14:22:12,666 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+14:22:12,947 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+14:22:12,947 TRACE [ContextManager] ContextManager startingneed update: true
+14:22:13,306 DEBUG [UpgradingNotification] qualifier: 0
+17:15:55,133 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:15:55,134 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+22:58:17,928 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+22:58:18,903 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+22:58:19,106 DEBUG [ComponentPackUtils] Starting Search for CPs
+22:58:19,150 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+22:58:19,238 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+22:58:19,365 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+22:58:19,379 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+22:58:19,380 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+22:58:19,656 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+22:58:19,657 TRACE [ContextManager] ContextManager startingneed update: true
+22:58:20,998 DEBUG [UpgradingNotification] qualifier: 0
+23:35:22,944 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+23:35:22,944 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:39:32,910 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:39:33,265 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:39:33,358 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:39:33,367 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:39:33,425 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:39:33,513 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:39:33,528 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:39:33,529 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:39:33,566 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:39:33,567 TRACE [ContextManager] ContextManager startingneed update: true
+23:39:33,618 DEBUG [UpgradingNotification] qualifier: 0
+01:22:36,764 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:22:36,765 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:55:02,802 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:55:03,644 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:55:03,847 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:55:03,878 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:55:03,987 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:55:03,987 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:55:04,190 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:55:04,206 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:55:04,720 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:55:04,720 TRACE [ContextManager] ContextManager startingneed update: true
+01:55:05,313 DEBUG [UpgradingNotification] qualifier: 0
+03:46:32,251 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:46:32,251 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+13:33:28,939 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+13:33:31,116 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+13:33:31,384 DEBUG [ComponentPackUtils] Starting Search for CPs
+13:33:31,440 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+13:33:31,610 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+13:33:31,828 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+13:33:31,843 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+13:33:31,844 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+13:33:32,213 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+13:33:32,214 TRACE [ContextManager] ContextManager startingneed update: true
+13:33:32,487 DEBUG [UpgradingNotification] qualifier: 0
+17:12:18,385 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:12:18,385 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:47:54,564 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:47:57,635 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:47:57,750 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:47:57,771 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:47:58,115 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:47:58,281 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:47:58,296 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:47:58,329 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:47:58,499 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:47:58,499 TRACE [ContextManager] ContextManager startingneed update: true
+20:47:58,604 DEBUG [UpgradingNotification] qualifier: 0
+04:17:39,830 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+04:17:39,830 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+14:55:29,119 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+14:55:30,081 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+14:55:30,298 DEBUG [ComponentPackUtils] Starting Search for CPs
+14:55:30,332 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+14:55:30,611 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+14:55:30,611 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+14:55:30,846 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+14:55:30,862 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+14:55:31,526 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+14:55:31,526 TRACE [ContextManager] ContextManager startingneed update: true
+14:55:32,179 DEBUG [UpgradingNotification] qualifier: 0
+15:44:23,522 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+15:44:23,522 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+15:47:24,996 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+15:47:26,376 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+15:47:26,476 DEBUG [ComponentPackUtils] Starting Search for CPs
+15:47:26,485 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+15:47:26,555 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+15:47:26,630 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+15:47:26,647 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+15:47:26,648 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+15:47:26,713 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+15:47:26,715 TRACE [ContextManager] ContextManager startingneed update: true
+15:47:26,777 DEBUG [UpgradingNotification] qualifier: 0
+17:31:51,708 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:31:51,709 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:59:03,113 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:59:04,314 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:59:04,582 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:59:04,626 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:59:04,802 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:59:04,802 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:59:04,961 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:59:04,977 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:59:05,221 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:59:05,223 TRACE [ContextManager] ContextManager startingneed update: true
+00:59:05,470 DEBUG [UpgradingNotification] qualifier: 0
+03:28:22,660 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:28:22,660 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+03:36:16,715 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+03:36:17,057 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+03:36:17,143 DEBUG [ComponentPackUtils] Starting Search for CPs
+03:36:17,153 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+03:36:17,209 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+03:36:17,271 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+03:36:17,288 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+03:36:17,289 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+03:36:17,373 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+03:36:17,375 TRACE [ContextManager] ContextManager startingneed update: true
+03:36:17,428 DEBUG [UpgradingNotification] qualifier: 0
+05:06:16,861 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+05:06:16,861 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+14:54:15,275 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+14:54:16,897 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+14:54:17,265 DEBUG [ComponentPackUtils] Starting Search for CPs
+14:54:17,321 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+14:54:17,536 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+14:54:17,679 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+14:54:17,697 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+14:54:17,698 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+14:54:17,941 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+14:54:17,942 TRACE [ContextManager] ContextManager startingneed update: true
+14:54:18,087 DEBUG [UpgradingNotification] qualifier: 0
+03:29:37,246 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+03:29:37,247 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+15:31:24,343 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+15:31:27,857 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+15:31:27,979 DEBUG [ComponentPackUtils] Starting Search for CPs
+15:31:28,003 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+15:31:28,186 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+15:31:28,328 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+15:31:28,345 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+15:31:28,384 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+15:31:28,587 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+15:31:28,589 TRACE [ContextManager] ContextManager startingneed update: true
+15:31:28,720 DEBUG [UpgradingNotification] qualifier: 0
+19:48:04,309 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+19:48:04,309 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:42:46,978 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:42:49,647 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:42:49,767 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:42:49,777 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:42:49,863 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:42:49,863 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:42:49,922 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:42:49,940 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:42:50,011 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:42:50,012 TRACE [ContextManager] ContextManager startingneed update: true
+21:42:50,071 DEBUG [UpgradingNotification] qualifier: 0
+04:01:15,858 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+04:01:15,858 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+13:57:34,818 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+13:57:37,666 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+13:57:37,796 DEBUG [ComponentPackUtils] Starting Search for CPs
+13:57:37,812 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+13:57:37,965 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+13:57:38,114 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+13:57:38,131 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+13:57:38,159 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+13:57:38,425 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+13:57:38,426 TRACE [ContextManager] ContextManager startingneed update: true
+13:57:38,763 DEBUG [UpgradingNotification] qualifier: 0
+18:17:45,920 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+18:17:45,920 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+00:53:53,381 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+00:53:56,267 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+00:53:56,376 DEBUG [ComponentPackUtils] Starting Search for CPs
+00:53:56,392 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+00:53:56,486 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+00:53:56,486 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+00:53:56,657 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+00:53:56,688 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+00:53:56,954 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+00:53:56,954 TRACE [ContextManager] ContextManager startingneed update: true
+00:53:57,266 DEBUG [UpgradingNotification] qualifier: 0
+11:09:51,148 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+11:09:51,148 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+11:13:20,299 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+11:13:20,838 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+11:13:21,017 DEBUG [ComponentPackUtils] Starting Search for CPs
+11:13:21,038 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+11:13:21,143 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+11:13:21,144 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+11:13:21,352 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+11:13:21,370 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+11:13:21,582 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+11:13:21,583 TRACE [ContextManager] ContextManager startingneed update: true
+11:13:21,704 DEBUG [UpgradingNotification] qualifier: 0
+12:24:23,244 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+12:24:23,244 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+12:37:33,073 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+12:37:33,416 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+12:37:33,503 DEBUG [ComponentPackUtils] Starting Search for CPs
+12:37:33,512 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+12:37:33,570 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+12:37:33,570 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+12:37:33,626 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+12:37:33,644 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+12:37:33,681 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+12:37:33,681 TRACE [ContextManager] ContextManager startingneed update: true
+12:37:33,734 DEBUG [UpgradingNotification] qualifier: 0
+13:28:48,946 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+13:28:48,946 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+16:52:10,663 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+16:52:15,499 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+16:52:15,624 DEBUG [ComponentPackUtils] Starting Search for CPs
+16:52:15,639 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+16:52:15,904 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+16:52:15,904 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+16:52:16,045 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+16:52:16,092 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+16:52:16,341 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+16:52:16,341 TRACE [ContextManager] ContextManager startingneed update: true
+16:52:16,700 DEBUG [UpgradingNotification] qualifier: 0
+16:59:24,659 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+16:59:24,659 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+17:22:36,885 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+17:22:37,150 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+17:22:37,290 DEBUG [ComponentPackUtils] Starting Search for CPs
+17:22:37,290 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+17:22:37,353 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+17:22:37,353 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+17:22:37,415 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+17:22:37,415 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+17:22:37,446 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+17:22:37,446 TRACE [ContextManager] ContextManager startingneed update: true
+17:22:37,493 DEBUG [UpgradingNotification] qualifier: 0
+17:25:27,424 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+17:25:27,424 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:18:11,076 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:18:13,774 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:18:13,899 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:18:13,915 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:18:14,118 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:18:14,118 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:18:14,258 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:18:14,398 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:18:14,882 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:18:14,882 TRACE [ContextManager] ContextManager startingneed update: true
+21:18:15,085 DEBUG [UpgradingNotification] qualifier: 0
+21:22:49,020 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:22:49,021 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+20:25:49,769 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+20:25:50,116 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+20:25:50,202 DEBUG [ComponentPackUtils] Starting Search for CPs
+20:25:50,212 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+20:25:50,270 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+20:25:50,330 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+20:25:50,348 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+20:25:50,349 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+20:25:50,431 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+20:25:50,431 TRACE [ContextManager] ContextManager startingneed update: true
+20:25:50,482 DEBUG [UpgradingNotification] qualifier: 0
+20:26:28,469 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+20:26:28,469 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:52:39,164 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:52:39,507 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:52:39,570 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:52:39,601 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:52:39,679 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:52:39,679 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:52:39,819 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:52:39,866 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:52:40,085 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:52:40,085 TRACE [ContextManager] ContextManager startingneed update: true
+23:52:40,241 DEBUG [UpgradingNotification] qualifier: 0
+23:59:08,033 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+23:59:08,033 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+01:04:53,000 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+01:04:53,280 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+01:04:53,358 DEBUG [ComponentPackUtils] Starting Search for CPs
+01:04:53,358 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+01:04:53,686 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+01:04:53,686 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+01:04:53,702 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+01:04:53,748 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+01:04:53,826 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+01:04:53,826 TRACE [ContextManager] ContextManager startingneed update: true
+01:04:54,107 DEBUG [UpgradingNotification] qualifier: 0
+01:05:58,094 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+01:05:58,094 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+02:06:46,055 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+02:06:46,320 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+02:06:46,382 DEBUG [ComponentPackUtils] Starting Search for CPs
+02:06:46,398 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+02:06:46,445 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+02:06:46,492 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+02:06:46,492 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+02:06:46,507 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+02:06:46,570 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+02:06:46,570 TRACE [ContextManager] ContextManager startingneed update: true
+02:06:46,616 DEBUG [UpgradingNotification] qualifier: 0
+02:11:35,923 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+02:11:35,923 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+16:37:55,236 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+16:37:55,755 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+16:37:55,886 DEBUG [ComponentPackUtils] Starting Search for CPs
+16:37:55,902 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+16:37:56,050 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+16:37:56,184 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+16:37:56,202 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+16:37:56,232 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+16:37:56,434 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+16:37:56,435 TRACE [ContextManager] ContextManager startingneed update: true
+16:37:56,539 DEBUG [UpgradingNotification] qualifier: 0
+16:57:12,228 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+16:57:12,228 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+15:05:58,248 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+15:05:58,814 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+15:05:58,952 DEBUG [ComponentPackUtils] Starting Search for CPs
+15:05:58,976 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+15:05:59,174 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+15:05:59,174 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+15:05:59,523 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+15:05:59,579 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+15:05:59,853 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+15:05:59,856 TRACE [ContextManager] ContextManager startingneed update: true
+15:06:00,539 DEBUG [UpgradingNotification] qualifier: 0
+15:12:40,983 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+15:12:40,984 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+15:15:08,167 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+15:15:08,498 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+15:15:08,586 DEBUG [ComponentPackUtils] Starting Search for CPs
+15:15:08,595 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+15:15:08,651 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+15:15:08,651 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+15:15:08,710 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+15:15:08,728 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+15:15:08,763 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+15:15:08,764 TRACE [ContextManager] ContextManager startingneed update: true
+15:15:08,815 DEBUG [UpgradingNotification] qualifier: 0
+15:16:56,761 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+15:16:56,762 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+12:12:54,732 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+12:12:55,184 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+12:12:55,293 DEBUG [ComponentPackUtils] Starting Search for CPs
+12:12:55,309 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+12:12:55,559 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+12:12:55,839 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+12:12:55,855 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+12:12:55,871 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+12:12:56,105 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+12:12:56,105 TRACE [ContextManager] ContextManager startingneed update: true
+12:12:56,401 DEBUG [UpgradingNotification] qualifier: 0
+15:37:57,859 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+15:37:57,859 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+14:15:19,943 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+14:15:20,326 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+14:15:20,415 DEBUG [ComponentPackUtils] Starting Search for CPs
+14:15:20,440 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+14:15:20,568 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+14:15:20,568 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+14:15:20,742 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+14:15:20,781 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+14:15:21,048 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+14:15:21,049 TRACE [ContextManager] ContextManager startingneed update: true
+14:15:21,416 DEBUG [UpgradingNotification] qualifier: 0
+14:24:19,991 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+14:24:19,991 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+21:06:45,749 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+21:06:46,239 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+21:06:46,353 DEBUG [ComponentPackUtils] Starting Search for CPs
+21:06:46,381 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+21:06:46,564 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+21:06:46,564 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+21:06:46,738 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+21:06:46,788 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+21:06:47,004 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+21:06:47,006 TRACE [ContextManager] ContextManager startingneed update: true
+21:06:47,120 DEBUG [UpgradingNotification] qualifier: 0
+21:18:54,359 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+21:18:54,359 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.
+23:15:38,602 TRACE [ContextManager] ContextManager starting, bundle version: 2.0.0.201207181003
+23:15:39,222 DEBUG [PropertyChangeListenerImp] Property change listener is enabled.
+23:15:39,382 DEBUG [ComponentPackUtils] Starting Search for CPs
+23:15:39,404 DEBUG [ComponentPackUtils] CP named BlackBerry Java SDK version 6.0.0 was found at C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components
+23:15:39,721 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [1378845941351$C:\Program Files\Java\jre7]
+23:15:39,721 DEBUG [RuntimeInstallsHandler] VM: *ADDED* [BlackBerry JRE 6.0.0$C:\Eclipse\plugins\net.rim.ejde.componentpack6.0.0_6.0.0.43\components]
+23:15:40,159 DEBUG [VMToolsUtils] Using 6.0+ but missing key FF66E9F6-83E7-3A3E-AF14-8DE9A809A6A4
+23:15:40,220 TRACE [VMUtils] Attempting to create VM with name - BlackBerry JRE 6.0.0
+23:15:40,621 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Started.
+23:15:40,621 TRACE [ContextManager] ContextManager startingneed update: true
+23:15:40,788 DEBUG [UpgradingNotification] qualifier: 0
+23:15:53,156 TRACE [BasicClasspathElementChangedListener] Entered classPathChanged(); project: Procesadores_de_Lenguajes
+23:15:53,156 TRACE [BasicClasspathElementChangedListener] Entered checkProjectOptions(); project: Procesadores_de_Lenguajes
+23:26:16,309 DEBUG [BundleListenerHandler] Bundle [net.rim.ejde] is changing state to Stopping.
+23:26:16,309 DEBUG [PropertyChangeListenerImp] Property change listener is disabled.

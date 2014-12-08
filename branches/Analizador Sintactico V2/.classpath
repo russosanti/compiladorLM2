@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Santy/Documents/Varios Santiago/Repositories/Procesadores de Lenguajes/Documentacion/Analizador Sintactico/JXL/jxl.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="file:/C:/Users/Santy/Documents/Varios%20Santiago/Repositories/Procesadores%20de%20Lenguajes/Documentacion/Analizador%20Sintactico/JXL/docs/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

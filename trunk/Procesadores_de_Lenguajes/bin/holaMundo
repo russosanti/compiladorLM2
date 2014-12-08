@@ -1,0 +1,9 @@
+procedure main();
+
+begin
+
+	showln  'Hola Mundo';
+	show  'TEST';
+	showln  'Soy Santi come pibitos, gato y puto';
+
+end-proc;

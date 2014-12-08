@@ -1,0 +1,180 @@
+Nombre: S
+	Nombre: null Tipo Nodo: null
+		Nombre: HOJACONST Tipo: INTEGER Valor: 7
+		Nombre: HOJAVAR Tipo: INTEGER
+		Nombre: HOJAVAR Tipo: INTEGER
+		Nombre: HOJAVAR Tipo: INTEGER Tamano: 12
+		Nombre: HOJAVAR Tipo: BOOLEAN Tamano: 5
+		Nombre: HOJAVAR Tipo: INTEGER
+	Nombre: null Tipo Nodo: null
+		Nombre: NODOPROC ID: main
+			Nombre: NODOPARAM
+			Nombre: NODODECL
+				Nombre: HOJAVAR Tipo: BOOLEAN
+			Nombre: null Tipo Nodo: null
+				Nombre: null ID: proc1
+					Nombre: null Tipo Nodo: PASAJE
+				Nombre: s Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: SUM Tipo: null
+						Nombre: null ID: m
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: null ID: proc2
+					Nombre: null Tipo Nodo: PASAJE
+						Nombre: null ID: s
+				Nombre: x Tipo Nodo: ASIGACCESSO
+					Nombre: null ID: fun1
+						Nombre: null Tipo Nodo: PASAJE
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 5
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 8
+				Nombre: c Tipo Nodo: ASIGARRAY
+					Nombre: null ID: x
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 5
+				Nombre: NODOSHOW ID: showEs ShowLN: false
+					Nombre: null ID: a
+						Nombre: EXP OP: SUM Tipo: null
+							Nombre: null ID: s
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+		Nombre: NODOFUNC ID: fun1Tipo Retorno: BOOLEAN
+			Nombre: NODOPARAM
+				Tipo Nodo: HOJAPARAM Nombre: t Tipo: INTEGER isRef: false
+				Tipo Nodo: HOJAPARAM Nombre: n2 Tipo: INTEGER isRef: false
+			Nombre: NODODECL
+				Nombre: HOJAVAR Tipo: INTEGER
+			Nombre: null Tipo Nodo: null
+				Nombre: NODOIF
+					Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+						Nombre: null ID: t
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 0
+					Nombre: n Tipo Nodo: ASIGACCESSO
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: -45
+					Nombre: n Tipo Nodo: ASIGACCESSO
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 70
+			Nombre: EXP OP: OR Tipo: null
+				Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+					Nombre: EXP OP: PROD Tipo: null
+						Nombre: null ID: n
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 0
+				Nombre: NOT OP: NOT Tipo: null
+					Nombre: NODOEXPBOOL OP: IGUALDAD Tipo: null
+						Nombre: null ID: n2
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 0
+		Nombre: NODOPROC ID: proc2
+			Nombre: NODOPARAM
+				Tipo Nodo: HOJAPARAM Nombre: r Tipo: INTEGER isRef: true
+			Nombre: NODODECL
+				Nombre: HOJACONST Tipo: INTEGER Valor: 67
+				Nombre: HOJAVAR Tipo: INTEGER
+				Nombre: HOJAVAR Tipo: INTEGER
+				Nombre: HOJAVAR Tipo: INTEGER
+			Nombre: null Tipo Nodo: null
+				Nombre: c Tipo Nodo: ASIGARRAY
+					Nombre: HOJABOOLEAN Tipo: BOOLEAN Valor: false
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+				Nombre: s Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: PROD Tipo: null
+						Nombre: EXP OP: SUM Tipo: null
+							Nombre: null ID: s
+							Nombre: null ID: m
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+				Nombre: q Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: NODOREAD ID: w11Es Array: false
+				Nombre: w12 Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: SUM Tipo: null
+						Nombre: EXP OP: PROD Tipo: null
+							Nombre: null ID: w11
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+						Nombre: null ID: s
+				Nombre: NODOWHILE
+					Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+						Nombre: EXP OP: REST Tipo: null
+							Nombre: null ID: w12
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+						Nombre: EXP OP: SUM Tipo: null
+							Nombre: null ID: r
+							Nombre: null ID: s
+					Nombre: w12 Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: PROD Tipo: null
+							Nombre: null ID: w12
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+				Nombre: NODOWHILE
+					Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+						Nombre: EXP OP: SUM Tipo: null
+							Nombre: null ID: w12
+							Nombre: null ID: m
+						Nombre: EXP OP: DIV Tipo: null
+							Nombre: null ID: w11
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+					Nombre: q Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: PROD Tipo: null
+							Nombre: null ID: q
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+					Nombre: w12 Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: DIV Tipo: null
+							Nombre: null ID: w12
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+					Nombre: NODOIF
+						Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+							Nombre: null ID: w12
+							Nombre: null ID: r
+						Nombre: r Tipo Nodo: ASIGACCESSO
+							Nombre: EXP OP: REST Tipo: null
+								Nombre: null ID: r
+								Nombre: null ID: w12
+						Nombre: q Tipo Nodo: ASIGACCESSO
+							Nombre: EXP OP: SUM Tipo: null
+								Nombre: null ID: q
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: a Tipo Nodo: ASIGARRAY
+					Nombre: null ID: q
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+		Nombre: NODOPROC ID: proc1
+			Nombre: NODOPARAM
+			Nombre: NODODECL
+				Nombre: HOJAVAR Tipo: INTEGER
+				Nombre: HOJAVAR Tipo: BOOLEAN
+			Nombre: null Tipo Nodo: null
+				Nombre: r Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: b Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: AND Tipo: null
+						Nombre: NOT OP: NOT Tipo: null
+							Nombre: null ID: c
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 3
+						Nombre: EXP OP: OR Tipo: null
+							Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+								Nombre: null ID: n
+								Nombre: null ID: a
+							Nombre: NODOEXPBOOL OP: IGUALDAD Tipo: null
+								Nombre: null ID: s
+								Nombre: null ID: r
+				Nombre: c Tipo Nodo: ASIGARRAY
+					Nombre: HOJABOOLEAN Tipo: BOOLEAN Valor: true
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: NODOWHILE
+					Nombre: null ID: b
+					Nombre: NODOIF
+						Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+							Nombre: null ID: a
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 10
+						Nombre: a Tipo Nodo: ASIGACCESSO
+							Nombre: EXP OP: SUM Tipo: null
+								Nombre: null ID: a
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+					Nombre: null ID: proc1
+						Nombre: null Tipo Nodo: PASAJE
+					Nombre: NODOSHOW ID: showlnEs ShowLN: true
+						Nombre: HOJAINTEGER Valor: 'Visualizacion'
+						Nombre: null ID: b
+						Nombre: HOJAINTEGER Valor: ' '
+						Nombre: null ID: a
+					Nombre: b Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: AND Tipo: null
+							Nombre: null ID: c
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 3
+							Nombre: NODOEXPBOOL OP: MAYOR_MENOR Tipo: null
+								Nombre: EXP OP: SUM Tipo: null
+									Nombre: null ID: a
+									Nombre: null ID: n
+								Nombre: null ID: r

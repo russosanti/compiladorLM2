@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="500" key="CommitDialog.weights.0"/>
+	<item value="500" key="CommitDialog.weights.1"/>
+	<item value="497" key="ChooseUrlDialog.size.x"/>
+	<item value="370" key="ChooseUrlDialog.size.y"/>
+	<item value="https://subversion.assembla.com/svn/compilador-lm/branches/Analizador Semantico" key="UrlCombo.Procesadores_de_Lenguajes.0"/>
+	<item value="433" key="BranchTag.size.y"/>
+	<item value="https://subversion.assembla.com/svn/procesadores-de-lenguajes/branches/Analizador Semantico" key="UrlCombo.Procesadores_de_Lenguajes.1"/>
+	<item value="576" key="BranchTag.size.x"/>
+	<item value="https://subversion.assembla.com/svn/procesadores-de-lenguajes/branches/Analizador Lexico" key="UrlCombo.Procesadores_de_Lenguajes.4"/>
+	<item value="201" key="BranchTag.location.y"/>
+	<item value="https://subversion.assembla.com/svn/procesadores-de-lenguajes/branches/Analizador Sintactico" key="UrlCombo.Procesadores_de_Lenguajes.2"/>
+	<item value="256" key="BranchTag.location.x"/>
+	<item value="https://subversion.assembla.com/svn/procesadores-de-lenguajes/branches/Analizador Sintactico V1" key="UrlCombo.Procesadores_de_Lenguajes.3"/>
+	<item value="0" key="CommitDialog.location.y"/>
+	<item value="102" key="CommitDialog.location.x"/>
+	<item value="365" key="ChooseUrlDialog.location.x"/>
+	<item value="true" key="BranchTagDialog.makeParents"/>
+	<item value="1163" key="CommitDialog.size.x"/>
+	<item value="104" key="ChooseUrlDialog.location.y"/>
+	<item value="583" key="CommitDialog.size.y"/>
+	<section name="CommitWizard">
+		<item value="false" key="ShowCompare"/>
+		<item value="500" key="VWeight2"/>
+		<item value="500" key="VWeight1"/>
+	</section>
+	<section name="NewLocationWizard">
+		<list key="ConfigurationWizardMainPage.STORE_URL_ID">
+			<item value="https://subversion.assembla.com/svn/procesadores-de-lenguajes/"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,1 @@
+Hay que correr el Jar con la carpeta de la gramatica

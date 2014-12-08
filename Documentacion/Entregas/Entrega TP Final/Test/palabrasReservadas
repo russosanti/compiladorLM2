@@ -1,0 +1,24 @@
+const, var, byref
+boolean, integer
+procedure, function, beginbegin, begin, while, do, 
+if, then, read, showln, end-if, end
+
+
+M : integer = 7, R : integer = 90;
+var N, S : boolean;
+var A[12] : integer;
+
+procedure PROC();
+var A : integer;
+var B : integer;
+begin
+  B := M;
+  while B > 0 do
+    if par(B) then
+      A := A + 1;
+    end-if
+    showLN 'Visualizacion', B, ' ', A
+    B := B - 1
+  end-while
+end-proc;
+  

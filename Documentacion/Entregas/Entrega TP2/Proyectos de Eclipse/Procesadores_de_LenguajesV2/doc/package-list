@@ -1,0 +1,10 @@
+analizador.lexico
+analizador.lexico.tokens
+analizador.sintactico
+analizador.sintactico.estructuras
+analizador.sintactico.helpers
+compilador
+exceptions
+interfaz
+tabladesimbolos
+utils

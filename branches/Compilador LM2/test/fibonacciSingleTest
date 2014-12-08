@@ -1,0 +1,31 @@
+function fibonacci (n:integer):integer;
+		var fib:integer;
+		var nAux1, nAux2:integer;
+		var a, b, c: integer;
+	begin
+	
+		if n < 3 then
+			fib := 1;
+		else
+			nAux1 := n-2;
+			nAux2 := n-1;
+			a := fibonacci(nAux1);
+			b := fibonacci(nAux2);
+			fib := a + b;
+			
+		end-if;	
+	end-func fib;
+	
+procedure MAIN();
+	var nro, i, rta:integer;
+begin
+	nro:=0;
+	while nro < 1 do
+		show 'Ingrese un numero Entero: ';
+		read nro;
+		showln ' ';
+	end-while;
+	rta := fibonacci (nro);
+	showln nro, ':', rta;
+end-proc;	 
+

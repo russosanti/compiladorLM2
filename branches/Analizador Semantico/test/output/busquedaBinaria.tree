@@ -1,0 +1,114 @@
+Nombre: S
+	Tipo Nodo: NODOGLOBALES
+		Nombre: HOJACONST ID: tam Tipo: INTEGER Valor: 15
+		Nombre: HOJAVAR ID: a Tipo: INTEGER Tamano: 15
+	Tipo Nodo: NODOBLOQUE
+		Nombre: NODOPROC ID: main
+			Nombre: NODOPARAM
+			Nombre: NODODECL
+				Nombre: HOJAVAR ID: busca Tipo: INTEGER
+				Nombre: HOJAVAR ID: temp Tipo: INTEGER
+				Nombre: HOJAVAR ID: bajo Tipo: INTEGER
+				Nombre: HOJAVAR ID: alto Tipo: INTEGER
+				Nombre: HOJAVAR ID: central Tipo: INTEGER
+				Nombre: HOJAVAR ID: j Tipo: INTEGER
+				Nombre: HOJAVAR ID: i Tipo: INTEGER
+			Tipo Nodo: NODOBLOQUE1
+				Nombre: j Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: NODOWHILE
+					Nombre: NODOEXPBOOL OP: MAYOR_MENOR
+						Nombre: EXP ID: j
+						Nombre: EXP ID: tam
+					Nombre: i Tipo Nodo: ASIGACCESSO
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 0
+					Nombre: NODOWHILE
+						Nombre: NODOEXPBOOL OP: MAYOR_MENOR
+							Nombre: EXP ID: i
+							Nombre: EXP OP: REST
+								Nombre: EXP ID: tam
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+						Nombre: NODOIF
+							Nombre: NODOEXPBOOL OP: MAYOR_MENOR
+								Nombre: EXP ID: a
+									Nombre: EXP OP: SUM
+										Nombre: EXP ID: i
+										Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+								Nombre: EXP ID: a
+									Nombre: EXP ID: i
+							Nombre: temp Tipo Nodo: ASIGACCESSO
+								Nombre: EXP ID: a
+									Nombre: EXP ID: i
+							Nombre: a Tipo Nodo: ASIGARRAY
+								Nombre: EXP ID: a
+									Nombre: EXP OP: SUM
+										Nombre: EXP ID: i
+										Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+								Nombre: EXP ID: i
+							Nombre: a Tipo Nodo: ASIGARRAY
+								Nombre: EXP ID: temp
+								Nombre: EXP OP: SUM
+									Nombre: EXP ID: i
+									Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+						Nombre: i Tipo Nodo: ASIGACCESSO
+							Nombre: EXP OP: SUM
+								Nombre: EXP ID: i
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+					Nombre: j Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: SUM
+							Nombre: EXP ID: j
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: busca Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 12
+				Nombre: bajo Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 0
+				Nombre: alto Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: REST
+						Nombre: EXP ID: tam
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+				Nombre: central Tipo Nodo: ASIGACCESSO
+					Nombre: EXP OP: DIV
+						Nombre: EXP OP: SUM
+							Nombre: EXP ID: bajo
+							Nombre: EXP ID: alto
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+				Nombre: NODOWHILE
+					Nombre: EXP OP: AND
+						Nombre: NODOEXPBOOL OP: MAYOR_MENOR
+							Nombre: EXP ID: bajo
+							Nombre: EXP ID: alto
+						Nombre: NODOEXPBOOL OP: IGUALDAD
+							Nombre: EXP ID: busca
+							Nombre: EXP ID: a
+								Nombre: EXP ID: central
+					Nombre: NODOIF
+						Nombre: NODOEXPBOOL OP: MAYOR_MENOR
+							Nombre: EXP ID: a
+								Nombre: EXP ID: central
+							Nombre: EXP ID: busca
+						Nombre: bajo Tipo Nodo: ASIGACCESSO
+							Nombre: EXP OP: SUM
+								Nombre: EXP ID: central
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+						Nombre: alto Tipo Nodo: ASIGACCESSO
+							Nombre: EXP OP: REST
+								Nombre: EXP ID: central
+								Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+					Nombre: central Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: DIV
+							Nombre: EXP OP: SUM
+								Nombre: EXP ID: bajo
+								Nombre: EXP ID: alto
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+				Nombre: NODOIF
+					Nombre: NODOEXPBOOL OP: IGUALDAD
+						Nombre: EXP ID: busca
+						Nombre: EXP ID: a
+							Nombre: EXP ID: central
+					Nombre: NODOSHOW ID: showlnEs ShowLN: true
+						Nombre: EXP ID: busca
+						Nombre: HOJAINTEGER Valor: ' encontrado en posicion '
+						Nombre: EXP ID: central
+					Nombre: NODOSHOW ID: showlnEs ShowLN: true
+						Nombre: HOJAINTEGER Valor: 'No existe '
+						Nombre: EXP ID: busca

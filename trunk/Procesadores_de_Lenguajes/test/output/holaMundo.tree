@@ -1,0 +1,13 @@
+Nombre: S
+	Tipo Nodo: NODOGLOBALES
+	Tipo Nodo: NODOBLOQUE
+		Nombre: NODOPROC ID: main
+			Nombre: NODOPARAM
+			Nombre: NODODECL
+			Tipo Nodo: NODOBLOQUE1
+				Nombre: NODOSHOW ID: showlnEs ShowLN: true
+					Nombre: HOJAINTEGER Valor: 'Hola Mundo'
+				Nombre: NODOSHOW ID: showEs ShowLN: false
+					Nombre: HOJAINTEGER Valor: 'TEST'
+				Nombre: NODOSHOW ID: showlnEs ShowLN: true
+					Nombre: HOJAINTEGER Valor: 'Soy Santi come pibitos, gato y puto'

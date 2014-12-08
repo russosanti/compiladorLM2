@@ -1,0 +1,27 @@
+
+function javi(byval x:integer):integer;
+
+begin
+
+x:=x+2;
+
+end-func x;
+
+procedure main();
+
+var A:integer;
+var B:integer;
+
+
+begin
+
+A:=1;
+B:=2;
+
+showln(A);
+
+A := 2*3 + (4-1)*javi(A);
+
+showln(A);
+
+end-proc;

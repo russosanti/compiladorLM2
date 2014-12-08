@@ -1,0 +1,67 @@
+Nombre: S
+	Tipo Nodo: NODOGLOBALES
+	Tipo Nodo: NODOBLOQUE
+		Nombre: NODOFUNC ID: fibonacciTipo Retorno: INTEGER
+			Nombre: NODOPARAM
+				Tipo Nodo: HOJAPARAM Nombre: n Tipo: INTEGER isRef: false
+			Nombre: NODODECL
+				Nombre: HOJAVAR ID: fib Tipo: INTEGER
+				Nombre: HOJAVAR ID: naux1 Tipo: INTEGER
+				Nombre: HOJAVAR ID: naux2 Tipo: INTEGER
+				Nombre: HOJAVAR ID: a Tipo: INTEGER
+				Nombre: HOJAVAR ID: b Tipo: INTEGER
+				Nombre: HOJAVAR ID: c Tipo: INTEGER
+			Tipo Nodo: NODOBLOQUE1
+				Nombre: NODOIF
+					Nombre: NODOEXPBOOL OP: MENOR
+						Nombre: ACCESO ID: n
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 3
+					Nombre: fib Tipo Nodo: ASIGACCESSO
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+					Nombre: naux1 Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: REST
+							Nombre: ACCESO ID: n
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 2
+					Nombre: naux2 Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: REST
+							Nombre: ACCESO ID: n
+							Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+					Nombre: a Tipo Nodo: ASIGACCESSO
+						Nombre: LLAMADA ID: fibonacci
+							Nombre: null Tipo Nodo: PASAJE
+								Nombre: ACCESO ID: naux1
+					Nombre: b Tipo Nodo: ASIGACCESSO
+						Nombre: LLAMADA ID: fibonacci
+							Nombre: null Tipo Nodo: PASAJE
+								Nombre: ACCESO ID: naux2
+					Nombre: fib Tipo Nodo: ASIGACCESSO
+						Nombre: EXP OP: SUM
+							Nombre: ACCESO ID: a
+							Nombre: ACCESO ID: b
+			Nombre: ACCESO ID: fib
+		Nombre: NODOPROC ID: main
+			Nombre: NODOPARAM
+			Nombre: NODODECL
+				Nombre: HOJAVAR ID: nro Tipo: INTEGER
+				Nombre: HOJAVAR ID: i Tipo: INTEGER
+				Nombre: HOJAVAR ID: rta Tipo: INTEGER
+			Tipo Nodo: NODOBLOQUE1
+				Nombre: nro Tipo Nodo: ASIGACCESSO
+					Nombre: HOJAINTEGER Tipo: INTEGER Valor: 0
+				Nombre: NODOWHILE
+					Nombre: NODOEXPBOOL OP: MENOR
+						Nombre: ACCESO ID: nro
+						Nombre: HOJAINTEGER Tipo: INTEGER Valor: 1
+					Nombre: NODOSHOW ID: showEs ShowLN: false
+						Nombre: HOJAINTEGER Valor: 'Ingrese un numero Entero: '
+					Nombre: NODOREAD ID: nroEs Array: false
+					Nombre: NODOSHOW ID: showlnEs ShowLN: true
+						Nombre: HOJAINTEGER Valor: ' '
+				Nombre: rta Tipo Nodo: ASIGACCESSO
+					Nombre: LLAMADA ID: fibonacci
+						Nombre: null Tipo Nodo: PASAJE
+							Nombre: ACCESO ID: nro
+				Nombre: NODOSHOW ID: showlnEs ShowLN: true
+					Nombre: ACCESO ID: nro
+					Nombre: HOJAINTEGER Valor: ':'
+					Nombre: ACCESO ID: rta

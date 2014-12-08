@@ -1,0 +1,2542 @@
+Nov 15, 2013 4:17:24 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 15, 2013 4:17:24 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 15, 2013 4:17:24 AM utils.SystemLog log_normal
+FINE: 
+Nov 15, 2013 4:17:24 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 15, 2013 4:17:24 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 15, 2013 4:17:24 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 15, 2013 5:08:53 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 15, 2013 5:08:53 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 15, 2013 5:08:53 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 15, 2013 5:08:54 PM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 15, 2013 5:08:54 PM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 15, 2013 5:08:54 PM utils.SystemLog log_normal
+FINE: 
+Nov 15, 2013 5:08:54 PM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 15, 2013 5:08:54 PM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 15, 2013 5:08:54 PM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 16, 2013 5:06:11 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 16, 2013 5:06:11 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 16, 2013 5:06:11 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 16, 2013 5:06:12 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 16, 2013 5:06:12 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 16, 2013 5:06:12 AM utils.SystemLog log_normal
+FINE: 
+Nov 16, 2013 5:06:12 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 16, 2013 5:06:12 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 16, 2013 5:06:12 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 16, 2013 7:44:01 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 16, 2013 7:44:01 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 16, 2013 7:44:01 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 16, 2013 7:44:02 PM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 16, 2013 7:44:02 PM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 16, 2013 7:44:02 PM utils.SystemLog log_normal
+FINE: 
+Nov 16, 2013 7:44:02 PM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 16, 2013 7:44:02 PM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 16, 2013 7:44:02 PM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 16, 2013 8:45:47 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 16, 2013 8:45:47 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 16, 2013 8:45:47 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 16, 2013 8:45:48 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+null
+Message: La expresion dentro de un arreglo debe ser un Tipo INTEGER
+Nov 16, 2013 8:45:48 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 17 columna 13: 
+Type Exception:
+null
+Message: La expresion dentro de un arreglo debe ser un Tipo INTEGER
+Nov 16, 2013 8:45:48 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 59 columna 9: java.lang.NullPointerException
+Nov 16, 2013 8:45:48 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 60 columna 16: java.lang.NullPointerException
+Nov 16, 2013 8:45:48 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 60 columna 16: 
+Semantic Exception:
+null
+Message: Error Semantico
+Nov 16, 2013 8:45:48 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 60 columna 16: java.lang.NullPointerException
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 14: 
+Type Exception:
+null
+Message: La expresion dentro de un arreglo debe ser un Tipo INTEGER
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_normal
+FINE: 
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 16, 2013 8:45:49 PM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 18, 2013 4:51:23 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 4:51:23 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 4:51:23 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 4:51:24 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Sintactic Exception
+Message: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@413eabd9
+Nov 18, 2013 4:51:24 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 13|| Lexema: 3'
+Nov 18, 2013 5:12:24 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 5:12:24 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 5:12:24 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 5:44:52 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 5:44:52 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 5:44:52 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 5:44:53 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+
+Message: La expresion dentro de un arreglo debe ser un Tipo INTEGER
+Nov 18, 2013 5:44:53 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Sintactic Exception
+Message: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@6c9f45f4
+Nov 18, 2013 5:44:53 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 14|| Lexema: ]'
+Nov 18, 2013 11:33:00 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:33:01 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:33:01 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:33:01 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Sintactic Exception
+Message: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@1732781b
+Nov 18, 2013 11:33:01 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 14|| Lexema: ]'
+Nov 18, 2013 11:35:23 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:35:23 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:35:23 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:35:24 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion FACT: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@61a243f1
+Nov 18, 2013 11:35:24 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 14|| Lexema: ]'
+Nov 18, 2013 11:36:27 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:36:27 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:36:27 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:41:21 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:41:21 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:41:21 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:41:22 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion FACT: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@4deafe13
+Nov 18, 2013 11:41:22 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 14|| Lexema: ]'
+Nov 18, 2013 11:46:57 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:46:57 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:46:57 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error en la tabla de simbolos
+Message: El contexto globalno existe
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 21: 
+Semantic Exception:
+Error en la tabla de simbolos
+Message: El contexto globalno existe
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Semantic Exception:
+Error en la tabla de simbolos
+Message: El contexto globalno existe
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 30: 
+Semantic Exception:
+Error en la tabla de simbolos
+Message: El contexto globalno existe
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Semantic Exception:
+Error en la tabla de simbolos
+Message: El contexto globalno existe
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@641ab54a
+Nov 18, 2013 11:48:07 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 33|| Lexema: r'
+Nov 18, 2013 11:58:32 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 18, 2013 11:58:32 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 18, 2013 11:58:32 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error semantico en c
+Message: La variable c no esta declarada
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 21: 
+Semantic Exception:
+Error semantico en n
+Message: La variable n no esta declarada
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Semantic Exception:
+Error semantico en a
+Message: La variable a no esta declarada
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 30: 
+Semantic Exception:
+Error semantico en s
+Message: La variable s no esta declarada
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@61a243f1
+Nov 18, 2013 11:58:33 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 33|| Lexema: r'
+Nov 19, 2013 3:42:44 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 19, 2013 3:42:44 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 19, 2013 3:42:44 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 19, 2013 3:42:45 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: : No se cerraron los []
+Stack: [Ljava.lang.StackTraceElement;@776ecadb
+Nov 19, 2013 3:42:45 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 3 Columna: 11|| Lexema: integer'
+Nov 19, 2013 3:44:17 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 19, 2013 3:44:17 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 19, 2013 3:44:17 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 19, 2013 3:45:03 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 19, 2013 3:45:03 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 19, 2013 3:45:03 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 19, 2013 3:45:03 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 19, 2013 3:45:03 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error semantico en c
+Message: La variable c no esta declarada
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 21: 
+Semantic Exception:
+Error semantico en n
+Message: La variable n no esta declarada
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Semantic Exception:
+Error semantico en a
+Message: La variable a no esta declarada
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 30: 
+Semantic Exception:
+Error semantico en s
+Message: La variable s no esta declarada
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@5559c7f2
+Nov 19, 2013 3:45:04 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 33|| Lexema: r'
+Nov 19, 2013 4:24:31 PM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 19, 2013 4:24:31 PM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 19, 2013 4:24:31 PM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error semantico en c
+Message: La variable c no esta declarada
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 21: 
+Semantic Exception:
+Error semantico en n
+Message: La variable n no esta declarada
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Semantic Exception:
+Error semantico en a
+Message: La variable a no esta declarada
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 30: 
+Semantic Exception:
+Error semantico en s
+Message: La variable s no esta declarada
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@5cc47ee4
+Nov 19, 2013 4:24:32 PM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 33|| Lexema: r'
+Nov 20, 2013 12:54:50 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 12:54:50 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 12:54:50 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 12:58:52 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 12:58:52 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 12:58:52 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error semantico en c
+Message: La variable c no esta declarada
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 21: 
+Semantic Exception:
+Error semantico en n
+Message: La variable n no esta declarada
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Semantic Exception:
+Error semantico en a
+Message: La variable a no esta declarada
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 30: 
+Semantic Exception:
+Error semantico en s
+Message: La variable s no esta declarada
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@707561aa
+Nov 20, 2013 12:58:53 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 33|| Lexema: r'
+Nov 20, 2013 1:00:46 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:00:46 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:00:46 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:07:46 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:07:46 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:07:46 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 2 columna 1: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error semantico en c
+Message: La variable c no esta declarada
+Nov 20, 2013 1:07:47 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 20, 2013 1:09:28 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:09:28 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:09:28 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:10:01 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 2 columna 1: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 1:10:39 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:11:20 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:11:20 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:11:20 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:12:02 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:12:06 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:12:06 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:12:07 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 2 columna 1: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 1:12:07 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:12:07 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:12:07 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:12:07 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:12:31 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:12:34 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:12:34 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:15:08 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:15:08 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:15:08 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:15:41 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 4 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 6 columna 1: java.lang.NullPointerException
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Semantic Exception:
+Error semantico en c
+Message: La variable c no esta declarada
+Nov 20, 2013 1:15:42 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 15: 
+Type Exception:
+La variable que sigue al not debe ser de tipo booleana
+Message: Error en el not
+Nov 20, 2013 1:20:59 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:20:59 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:20:59 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:22:16 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:22:16 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:22:16 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:25:50 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:25:50 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:25:50 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:28:17 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:28:17 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:28:17 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:32:53 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:32:53 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:32:53 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:35:54 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:35:54 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:35:54 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:41:46 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:41:46 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:41:46 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:46:12 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:46:12 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:46:12 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:54:55 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:54:56 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:54:56 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:58:00 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:58:00 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:58:00 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:58:01 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 20, 2013 1:58:01 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 10 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 1:58:01 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@4d04a0e8
+Nov 20, 2013 1:58:01 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 10 Columna: 33|| Lexema: r'
+Nov 20, 2013 1:59:16 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 1:59:16 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 1:59:16 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 1:59:16 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@78462a0c
+Nov 20, 2013 1:59:16 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 33|| Lexema: r'
+Nov 20, 2013 2:01:59 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:01:59 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:01:59 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:06:19 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:06:19 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:06:19 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:06:20 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion FACT: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@4672b784
+Nov 20, 2013 2:06:20 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 34|| Lexema: )'
+Nov 20, 2013 2:06:53 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:06:53 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:06:53 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:07:54 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:07:54 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:07:54 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:07:54 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion EXP2: La Produccion vino mal formada
+Stack: [Ljava.lang.StackTraceElement;@10a0f0c9
+Nov 20, 2013 2:07:54 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 16 Columna: 16|| Lexema: 1'
+Nov 20, 2013 2:08:35 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:08:35 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:08:35 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:14:40 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:14:40 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:14:40 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:15:50 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:15:50 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:15:50 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:18:01 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:18:01 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:18:01 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 23 columna 33: java.lang.NullPointerException
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 31 columna 15: 
+Semantic Exception:
+Error semantico en aw11
+Message: La variable aw11 no esta declarada
+Nov 20, 2013 2:19:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 31 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una * o / deben ser enteros
+Message: Error semantico en la produccion TERM
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 31 columna 22: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 22: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 21: 
+Semantic Exception:
+Error semantico en y
+Message: La variable y no esta declarada
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos de variables a ambos lados de una * o / deben ser enteros
+Message: Error semantico en la produccion TERM
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 14: 
+Semantic Exception:
+Error semantico en r
+Message: La variable r no esta declarada
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 8: 
+Semantic Exception:
+Error semantico en t
+Message: La variable t no esta declarada
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 12: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 31: 
+Semantic Exception:
+Error semantico en n2
+Message: La variable n2 no esta declarada
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:19:05 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:21:23 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 23 columna 33: java.lang.NullPointerException
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 21: 
+Semantic Exception:
+Error semantico en y
+Message: La variable y no esta declarada
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos de variables a ambos lados de una * o / deben ser enteros
+Message: Error semantico en la produccion TERM
+Nov 20, 2013 2:21:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 8: 
+Semantic Exception:
+Error semantico en t
+Message: La variable t no esta declarada
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 12: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 31: 
+Semantic Exception:
+Error semantico en n2
+Message: La variable n2 no esta declarada
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:21:25 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:22:49 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:22:49 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:22:49 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:23:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 23 columna 33: java.lang.NullPointerException
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 21: 
+Semantic Exception:
+Error semantico en y
+Message: La variable y no esta declarada
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos de variables a ambos lados de una * o / deben ser enteros
+Message: Error semantico en la produccion TERM
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 8: 
+Semantic Exception:
+Error semantico en t
+Message: La variable t no esta declarada
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 12: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 31: 
+Semantic Exception:
+Error semantico en n2
+Message: La variable n2 no esta declarada
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:23:05 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:23:31 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:23:31 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:23:31 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:23:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:23:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:31:37 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:31:37 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:31:37 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:31:38 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:31:38 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:31:38 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 38: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:32:35 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:32:35 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:32:35 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:32:35 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 23 columna 33: java.lang.NullPointerException
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 21: 
+Semantic Exception:
+Error semantico en y
+Message: La variable y no esta declarada
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos de variables a ambos lados de una * o / deben ser enteros
+Message: Error semantico en la produccion TERM
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 8: 
+Semantic Exception:
+Error semantico en t
+Message: La variable t no esta declarada
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 12: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 31: 
+Semantic Exception:
+Error semantico en n2
+Message: La variable n2 no esta declarada
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:32:36 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:34:52 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:34:52 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:34:52 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:36:31 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:36:31 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:36:31 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 21: 
+Semantic Exception:
+Error semantico en y
+Message: La variable y no esta declarada
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos de variables a ambos lados de una * o / deben ser enteros
+Message: Error semantico en la produccion TERM
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 35 columna 25: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 8: 
+Semantic Exception:
+Error semantico en t
+Message: La variable t no esta declarada
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 12: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 31: 
+Semantic Exception:
+Error semantico en n2
+Message: La variable n2 no esta declarada
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:36:32 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:37:25 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:37:25 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:37:25 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:37:26 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:37:26 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 44: java.lang.NullPointerException
+Nov 20, 2013 2:37:26 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 8: 
+Semantic Exception:
+Error semantico en t
+Message: La variable t no esta declarada
+Nov 20, 2013 2:37:26 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 49 columna 12: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:37:26 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 31: 
+Semantic Exception:
+Error semantico en n2
+Message: La variable n2 no esta declarada
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 54 columna 34: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:37:27 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:38:01 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:38:01 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:38:01 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Semantic Exception:
+
+Message: Error Semantico
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:38:03 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 2:40:52 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 2:40:52 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 2:40:52 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 2:40:54 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 3:05:22 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 3:05:22 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 3:05:22 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 3:05:23 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 3:07:03 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 3:07:03 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 3:07:03 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: java.lang.NullPointerException
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 3:07:05 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 3:07:20 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 3:07:20 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 3:07:20 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 3:13:48 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 3:13:49 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 3:13:49 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 3:19:04 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 3:19:04 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 3:19:04 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:39:12 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:39:12 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:39:12 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:39:13 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion ASIG: La cantiad es Incorrecta
+Stack: [Ljava.lang.StackTraceElement;@5840979b
+Nov 20, 2013 7:39:13 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 13 Columna: 9|| Lexema: true'
+Nov 20, 2013 7:39:48 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:39:48 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:39:48 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:42:03 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:42:03 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:42:03 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:42:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 13 columna 13: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:42:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 27 columna 14: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:42:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 43 columna 10: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo INTEGER
+Nov 20, 2013 7:42:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: proc2
+Message: El parametro r ya fue declarado
+Nov 20, 2013 7:42:04 AM utils.SystemLog log_error
+SEVERE: Error causado por error Sintactico: Error algoritmico en la produccion FP: Falta la palabra reservada procedure
+Stack: [Ljava.lang.StackTraceElement;@b25e0fe
+Nov 20, 2013 7:42:04 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 54 Columna: 34|| Lexema: ;'
+Nov 20, 2013 7:42:44 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:42:44 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:42:44 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:42:45 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 13 columna 13: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:42:48 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 27 columna 14: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:42:48 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 43 columna 10: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo INTEGER
+Nov 20, 2013 7:43:05 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: proc2
+Message: El parametro r ya fue declarado
+Nov 20, 2013 7:43:33 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:43:33 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:43:33 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:43:33 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 13 columna 13: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:43:33 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 27 columna 14: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 43 columna 10: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo INTEGER
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: proc2
+Message: El parametro r ya fue declarado
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 56 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: fun1
+Message: El parametro t ya fue declarado
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: El procedimiento o funcion proc2 no fue declarado
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Type Exception:
+
+Message: La funcion fun1 no se encuentra declarada
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 63 columna 10: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 7:43:34 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 7:47:16 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:47:16 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:47:16 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:51:02 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:51:02 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:51:02 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 7:57:04 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 7:57:04 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 7:57:04 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:03:57 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:03:57 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:03:57 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:09:26 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:09:26 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:09:26 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 13 columna 13: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 27 columna 14: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 43 columna 10: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo INTEGER
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: proc2
+Message: El parametro r ya fue declarado
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 56 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: fun1
+Message: El parametro t ya fue declarado
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: El procedimiento o funcion proc2 no fue declarado
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Type Exception:
+
+Message: La funcion fun1 no se encuentra declarada
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 63 columna 10: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:09:27 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:12:56 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:12:57 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:12:57 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:15:03 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:15:03 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:15:03 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 46 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: proc2
+Message: El parametro r ya fue declarado
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 56 columna 1: 
+Semantic Exception:
+Error declarando un parametro en la funcion: fun1
+Message: El parametro t ya fue declarado
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Semantic Exception:
+
+Message: El procedimiento o funcion proc2 no fue declarado
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Type Exception:
+
+Message: La funcion fun1 no se encuentra declarada
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 62 columna 16: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:15:04 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:22:06 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:22:06 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:22:06 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:25:02 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:25:03 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:25:03 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:25:04 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:25:04 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:25:04 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:25:04 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 8:25:04 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 8:25:04 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 8:27:48 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:27:48 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:27:48 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:27:49 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:27:49 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:27:49 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:27:49 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 8:27:49 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 8:27:49 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 8:27:56 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:27:56 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test2
+Nov 20, 2013 8:27:56 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 9|| Lexema: b'
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 14 Columna: 17|| Lexema: ;'
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 15 Columna: 11|| Lexema: ;'
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 16 Columna: 38|| Lexema: ;'
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 17 Columna: 26|| Lexema: ;'
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_warning
+WARNING: Tipo: ERROR Valor: 2if Coordenadas: 26;16
+Codigo de Error: 1
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Error Lexico en Fila: 26 Columna: 16|| Lexema: '2if' .Descripcion del error: null
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:27:57 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:28:28 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:28:28 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test2
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 9|| Lexema: b'
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 14 Columna: 17|| Lexema: ;'
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 15 Columna: 11|| Lexema: ;'
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 16 Columna: 38|| Lexema: ;'
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 17 Columna: 26|| Lexema: ;'
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_warning
+WARNING: Tipo: ERROR Valor: 2if Coordenadas: 26;16
+Codigo de Error: 1
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Error Lexico en Fila: 26 Columna: 16|| Lexema: '2if' .Descripcion del error: null
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:28:29 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:28:33 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:28:33 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test3
+Nov 20, 2013 8:28:33 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 10: 
+Semantic Exception:
+
+Message: El procedimiento o funcion proc1 no fue declarado
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:28:34 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:31:10 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:31:10 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test3
+Nov 20, 2013 8:31:10 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:31:11 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:31:11 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:31:11 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:31:11 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 8:31:11 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 8:31:11 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 8:31:28 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:31:28 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test3
+Nov 20, 2013 8:31:28 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Type Exception:
+El tipo del parametro 1no coincide con el declarado por la funcion proc2
+Message: Error en el pasaje de parametros de la funcion: proc2
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:31:29 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:52:23 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:52:23 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test3
+Nov 20, 2013 8:52:23 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:52:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 8:52:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 8:52:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Type Exception:
+Los tipos a ambos lados de la igualdad no coinciden
+Message: Error Semantico en la comparacion =
+Nov 20, 2013 8:52:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 8:52:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 8:52:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Type Exception:
+El tipo del parametro 1no coincide con el declarado por la funcion proc2
+Message: Error en el pasaje de parametros de la funcion: proc2
+Nov 20, 2013 8:52:25 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:52:25 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:52:25 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:52:25 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 8:52:25 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 8:52:25 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 8:55:07 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 8:55:07 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 8:55:07 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 8:55:08 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 8:55:08 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 8:55:08 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 8:55:08 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 8:55:08 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 8:55:08 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 10:10:59 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:10:59 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 10:10:59 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:11:00 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:11:00 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:11:00 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:11:00 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 10:11:00 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 10:11:00 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 10:11:07 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:11:07 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test3
+Nov 20, 2013 10:11:07 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos a ambos lados de la desigualdad deben ser enteros
+Message: Error Semantico en la comparacion >
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Type Exception:
+Los tipos a ambos lados de la desigualdad deben ser enteros
+Message: Error Semantico en la comparacion >
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Type Exception:
+El tipo del parametro 1no coincide con el declarado por la funcion proc2
+Message: Error en el pasaje de parametros de la funcion: proc2
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:11:08 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test2
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 9|| Lexema: b'
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 14 Columna: 17|| Lexema: ;'
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 15 Columna: 11|| Lexema: ;'
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 16 Columna: 38|| Lexema: ;'
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 17 Columna: 26|| Lexema: ;'
+Nov 20, 2013 10:11:22 AM utils.SystemLog log_warning
+WARNING: Tipo: ERROR Valor: 2if Coordenadas: 26;16
+Codigo de Error: 1
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_error
+SEVERE: Error Lexico en Fila: 26 Columna: 16|| Lexema: '2if' .Descripcion del error: null
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:11:23 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:11:50 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:11:50 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 10:11:50 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:11:51 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:11:51 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:11:51 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:11:51 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 10:11:51 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 10:11:51 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 10:12:05 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:12:05 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_LenguajesV2/test/Test
+Nov 20, 2013 10:12:05 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:12:07 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:12:07 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:12:07 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:12:07 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 10:12:07 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 10:12:07 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 10:12:34 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:12:34 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:12:34 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 11: 
+Semantic Exception:
+
+Message: El procedimiento o funcion proc1 no fue declarado
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:12:35 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:12:53 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:12:53 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:12:53 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 10: 
+Semantic Exception:
+
+Message: El procedimiento o funcion proc1 no fue declarado
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:12:54 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:13:44 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:13:44 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:13:44 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:20:32 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:20:32 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:20:32 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:26:23 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:26:23 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:26:23 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:26:24 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:26:24 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:26:24 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:26:24 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 10:26:24 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 10:26:24 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 10:26:39 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:26:39 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:26:39 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:26:39 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 11: 
+Type Exception:
+No se pasaron parametros o se pasaron parametros a una funcion que no tiene
+Message: Error en el pasaje de parametros de la funcion: proc1
+Nov 20, 2013 10:26:40 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:26:40 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:26:40 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:26:40 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:26:40 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:26:40 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test2
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 9|| Lexema: b'
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 14 Columna: 17|| Lexema: ;'
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 15 Columna: 11|| Lexema: ;'
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 16 Columna: 38|| Lexema: ;'
+Nov 20, 2013 10:32:53 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 17 Columna: 26|| Lexema: ;'
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_warning
+WARNING: Tipo: ERROR Valor: 2if Coordenadas: 26;16
+Codigo de Error: 1
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_error
+SEVERE: Error Lexico en Fila: 26 Columna: 16|| Lexema: '2if' .Descripcion del error: null
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:32:54 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:33:11 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:33:11 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test3
+Nov 20, 2013 10:33:11 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos a ambos lados de la desigualdad deben ser enteros
+Message: Error Semantico en la comparacion >
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Type Exception:
+Los tipos a ambos lados de la desigualdad deben ser enteros
+Message: Error Semantico en la comparacion >
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Type Exception:
+El tipo del parametro 1no coincide con el declarado por la funcion proc2
+Message: Error en el pasaje de parametros de la funcion: proc2
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:33:12 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:33:13 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:33:13 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:33:13 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:36:24 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:36:24 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test3
+Nov 20, 2013 10:36:24 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:36:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 10:36:24 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 32 columna 26: 
+Type Exception:
+Los tipos a ambos lados de la desigualdad deben ser enteros
+Message: Error Semantico en la comparacion >
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 38 columna 17: 
+Type Exception:
+Los tipos a ambos lados de la desigualdad deben ser enteros
+Message: Error Semantico en la comparacion >
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+Los tipos de variables a ambos lados de una + o - deben ser enteros
+Message: Error semantico en la produccion EXP2
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 39 columna 19: 
+Type Exception:
+
+Message: No se puede asignar un null a una variable de tipo BOOLEAN
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 61 columna 9: 
+Type Exception:
+El tipo del parametro 1no coincide con el declarado por la funcion proc2
+Message: Error en el pasaje de parametros de la funcion: proc2
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:36:25 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:36:33 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:36:33 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test2
+Nov 20, 2013 10:36:33 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 12 Columna: 9|| Lexema: b'
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 14 Columna: 17|| Lexema: ;'
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 15 Columna: 11|| Lexema: ;'
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 16 Columna: 38|| Lexema: ;'
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Error Sintactico en Fila: 17 Columna: 26|| Lexema: ;'
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_warning
+WARNING: Tipo: ERROR Valor: 2if Coordenadas: 26;16
+Codigo de Error: 1
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Error Lexico en Fila: 26 Columna: 16|| Lexema: '2if' .Descripcion del error: null
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:36:34 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:36:42 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:36:42 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:36:42 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 18 columna 11: 
+Type Exception:
+No se pasaron parametros o se pasaron parametros a una funcion que no tiene
+Message: Error en el pasaje de parametros de la funcion: proc1
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:36:43 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+
+Nov 20, 2013 10:36:58 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:36:58 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:36:58 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:37:00 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:37:00 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:37:00 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:37:00 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+Nov 20, 2013 10:37:00 AM utils.SystemLog log_normal
+FINE: --------------------------------------
+
+Nov 20, 2013 10:37:00 AM utils.SystemLog log_normal
+FINE: Analisis Correcto
+Nov 20, 2013 10:37:07 AM utils.SystemLog log_normal
+FINE: Inicio de la Compilacion...
+Nov 20, 2013 10:37:07 AM utils.SystemLog log_normal
+FINE: Comienzo del Analisis de: ../Procesadores_de_Lenguajes/test/Test
+Nov 20, 2013 10:37:07 AM utils.SystemLog log_normal
+FINE: Comienza el Analizador Lexico
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_normal
+FINE: Finalizado el analisis Lexico del archivo
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_normal
+FINE: ---------------------------------------------------------------------------
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_normal
+FINE: 
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_error
+SEVERE: Error Semantico en fila 67 columna 1: 
+Semantic Exception:
+
+Message: Error en el programa!! Falta el procedure main
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_error
+SEVERE: :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :( :(
+
+Nov 20, 2013 10:37:08 AM utils.SystemLog log_error
+SEVERE: Analisis Incorrecto
+
+

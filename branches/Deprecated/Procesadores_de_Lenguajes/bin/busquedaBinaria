@@ -1,0 +1,52 @@
+	const TAM : integer = 15;
+	var A[TAM] : integer;
+
+procedure PRINCIPAL();
+
+	var busca, temp, bajo, alto, central, j, i : integer;
+
+begin
+
+	{Ordenando arreglo...}
+	
+	j:=1;
+	while (j <= TAM) do
+		i:=0;
+		while (i < TAM - 1) do
+			if ( a[i+1] <= a[i] )then
+				   temp := a[i];
+				   a[i] := a[i+1];
+				   a[i+1] := temp;
+			end-if;
+			i := i + 1;
+		end-while;
+		j := j + 1;
+	end-while;
+	
+	{Implementacion de busqueda binaria}
+	
+	{Seteo el valor a buscar}
+	busca := 12;
+
+	bajo := 0;
+	alto := TAM -1;
+	central := (bajo+alto)/2;
+
+	while(and ( bajo < alto , busca != a[central] ) ) do
+
+		if ( a[central] <= busca ) then
+			bajo = central+1;
+		then
+			alto = central-1;
+		end-if;
+		
+		central=(bajo+alto)/2;
+		
+	end-while;
+
+	if (busca == a[central]) then
+		showln  busca,' encontrado en posicion ', central;
+	else
+		showln 'No existe ', busca;
+	end-if;
+end-proc;

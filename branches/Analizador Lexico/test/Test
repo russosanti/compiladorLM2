@@ -1,0 +1,62 @@
+const M : integer = 7, R : integer = 90;
+var N, S : integer;
+var A[12] : integer, C[5] : boolean;
+
+procedure PROC1();
+var A : integer;
+var B : boolean;
+begin
+  B := not C[3] and (N < A or S <> R);
+  C[1] := true;
+  while B do
+    if A <= 10 then
+      A := A + 1;
+    end-if;
+    showLN 'Visualizacion', B, ' ', A;
+    B := C[3] and A + N < R;
+  end-while;
+end-proc;
+
+procedure PROC2(byref R : integer);
+const T : integer = 67;
+var W11, W12, Q : integer;
+begin
+  C[2] := false;
+  S := (S + M) * 2;
+  Q := 1;
+  read W11;  {lectura de teclado}
+  W12 := AW11 * 2 + S;
+  while (W12 - 2) <= R + S do
+    W12 := W12 * 2;
+  end-while;
+  while W12 + M > Y / 2 do
+    Q := Q * 2;
+    W12 := W12 / 2;
+    if W12 <= R then
+      R := R - W12;
+      Q := Q + 1;
+    end-if;
+  end-while;
+  A[1] := Q;
+end-proc;
+
+function FUN1(T: integer, byval N2 : integer) : boolean;
+var N: integer;
+begin
+  if T > 0 then
+    N := -45;
+  else
+    N := 70;
+  end-if;
+end-func N * 2 >= 0 or not N2 = 0;
+
+procedure MAIN();
+var X: boolean;
+begin
+  PROC1();
+  S := M + 1;
+  PROC2(S);
+  X := FUN1(5, 8);
+  C[5] := X;
+  show A[S + 1];
+end-proc;
